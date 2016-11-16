@@ -1,0 +1,18 @@
+.globalToolbar{
+    width: 340px;
+    margin: 10px;
+    position: absolute;
+    z-index: 999;
+}
+
+.searchbox{
+    /*margin-left: 4px;*/
+}
+
+.paperBox{
+    height: 100;
+    width: 100;
+    margin: 20;
+    textAlign: 'center';
+    display: 'inline-block';
+}
