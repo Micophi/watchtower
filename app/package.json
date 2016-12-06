@@ -12,11 +12,11 @@
   "license": "MIT",
   "dependencies": {
     "cesium": "^1.27.0",
-    "leaflet": "^1.0.1",
+    "leaflet": "^1.0.2",
     "leaflet-curve": "^1.0.0",
-    "material-ui": "^0.16.1",
+    "material-ui": "^0.16.4",
     "pouchdb": "^6.0.7",
-    "react-tap-event-plugin": "^1.0.0",
+    "react-tap-event-plugin": "^2.0.1",
     "source-map-support": "^0.4.3"
   },
   "devDependencies": {}

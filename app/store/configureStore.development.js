@@ -12,7 +12,6 @@ const actionCreators = {
   leafletActions,
   push,
 };
-
 const logger = createLogger({
   level: 'info',
   collapsed: true
