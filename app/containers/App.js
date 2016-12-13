@@ -1,12 +1,12 @@
 // @flow
-import React, { Component, PropTypes } from 'react';
+
 import lightBaseTheme from 'material-ui/styles/baseThemes/lightBaseTheme';
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
 import getMuiTheme from 'material-ui/styles/getMuiTheme';
 
 export default class App extends Component {
-  static propTypes = {
-    children: PropTypes.element.isRequired
+  props: {
+    children: HTMLElement
   };
 
   render() {
